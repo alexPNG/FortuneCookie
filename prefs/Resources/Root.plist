@@ -1,0 +1,123 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>items</key>
+	<array>
+		<dict>
+			<key>cell</key>
+			<string>PSGroupCell</string>
+			<key>footerText</key>
+			<string>FortuneCookie by alex_png</string>
+		</dict>
+		<dict>
+			<key>alignment</key>
+			<string>0</string>
+			<key>cell</key>
+			<string>PSStaticTextCell</string>
+			<key>cellClass</key>
+			<string>PFHeaderCell</string>
+			<key>height</key>
+			<integer>165</integer>
+			<key>icon</key>
+			<string>Banner.png</string>
+		</dict>
+		<dict>
+			<key>cell</key>
+			<string>PSGroupCell</string>
+			<key>footerText</key>
+			<string>Enable or disable FortuneCookie.</string>
+			<key>label</key>
+			<string></string>
+		</dict>
+		<dict>
+			<key>PostNotification</key>
+			<string>com.alexpng.fortunecookie.prefschanged</string>
+			<key>cell</key>
+			<string>PSSwitchCell</string>
+			<key>default</key>
+			<true/>
+			<key>defaults</key>
+			<string>com.alexpng.fortunecookie</string>
+			<key>key</key>
+			<string>useCookie</string>
+			<key>label</key>
+			<string>Enable Tweak</string>
+		</dict>
+		<dict>
+			<key>cell</key>
+			<string>PSGroupCell</string>
+			<key>footerText</key>
+			<string>Feel free to contact me in case of any bugs or issues.</string>
+			<key>label</key>
+			<string>Contact Me:</string>
+		</dict>
+		<dict>
+			<key>action</key>
+			<string>Twitter</string>
+			<key>cell</key>
+			<string>PSButtonCell</string>
+			<key>icon</key>
+			<string>twitter.png</string>
+			<key>label</key>
+			<string>@its_alex_png</string>
+		</dict>
+		<dict>
+			<key>action</key>
+			<string>Reddit</string>
+			<key>cell</key>
+			<string>PSButtonCell</string>
+			<key>icon</key>
+			<string>reddit.png</string>
+			<key>label</key>
+			<string>/u/alex_png</string>
+		</dict>
+		<dict>
+			<key>action</key>
+			<string>GitHub</string>
+			<key>cell</key>
+			<string>PSButtonCell</string>
+			<key>icon</key>
+			<string>github.png</string>
+			<key>label</key>
+			<string>github.com/alexPNG</string>
+		</dict>
+		<dict>
+			<key>action</key>
+			<string>Email</string>
+			<key>cell</key>
+			<string>PSButtonCell</string>
+			<key>icon</key>
+			<string>email.png</string>
+			<key>label</key>
+			<string>alex.png.cc@gmail.com</string>
+		</dict>
+		<dict>
+			<key>cell</key>
+			<string>PSGroupCell</string>
+			<key>footerText</key>
+			<string>Check out my other tweaks, they’re all available in my repository.</string>
+			<key>label</key>
+			<string>Tweak Repository:</string>
+		</dict>
+		<dict>
+			<key>action</key>
+			<string>Repository</string>
+			<key>cell</key>
+			<string>PSButtonCell</string>
+			<key>icon</key>
+			<string>repo.png</string>
+			<key>label</key>
+			<string>https://alexpng.github.io</string>
+		</dict>
+		<dict>
+			<key>cell</key>
+			<string>PSGroupCell</string>
+			<key>label</key>
+			<string>FortuneCookie by alex_png</string>
+		</dict>
+	</array>
+	<key>title</key>
+	<string>FortuneCookie</string>
+</dict>
+</plist>

@@ -1,0 +1,12 @@
+Package: com.alexpng.fortunecookie
+Name: FortuneCookie
+Description: Shake your device to get a fortune cookie!
+Version: 1.0
+Section: Tweaks
+Architecture: iphoneos-arm
+Depends: mobilesubstrate
+Maintainer: alex_png <alex.png.cc@gmail.com>
+Author: alex_png <alex.png.cc@gmail.com>
+Depiction: https://alexpng.github.io/depictions/com.alexpng.fortunecookie/
+Icon: https://alexpng.github.io/depictions/com.alexpng.fortunecookie/DebIcon.png
+SileoDepiction: https://alexpng.github.io/depictions/com.alexpng.fortunecookie/fortunecookie.json
